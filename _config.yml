@@ -20,6 +20,7 @@ author: wormdriveworks
 ###############################################
 
 navbar-links:
+  Privacy Policy: "privacy-policy"
   # About Me: "aboutme"
   # Resources:
   #   - Beautiful Jekyll: "https://beautifuljekyll.com"
