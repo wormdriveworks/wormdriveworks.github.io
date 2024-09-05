@@ -1,21 +1,19 @@
 ---
 layout: post
-title: Sample blog post to learn markdown tips
-subtitle: There's lots to learn!
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
+title: Progger
+subtitle: Introducing the easiest way to log your workouts
 tags: [test]
 comments: true
 mathjax: true
 author: Bill Smith
 ---
 
-~~~
+
 당신의 운동을 기록하는 가장 간편한 방법을 소개합니다. 무게, 시간, 자유 운동 등 다양한 타입의 운동을 쉽게 기록하고 관리하세요. 한 번의 터치로 루틴을 추가하고, 복잡함 없이 운동에 집중할 수 있습니다. 지금 바로 시작해보세요!
 
 
 Introducing the easiest way to log your workouts. Easily record and manage various types of exercises, whether it’s weight-based, time-based, or freeform. Add routines with a single touch and focus on your workout without any complications. Get started now!
-~~~
+
 
 
 **Screen Shots**
