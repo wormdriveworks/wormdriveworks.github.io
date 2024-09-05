@@ -2,10 +2,6 @@
 layout: post
 title: Progger
 subtitle: Introducing the easiest way to log your workouts
-tags: [test]
-comments: true
-mathjax: true
-author: Bill Smith
 ---
 
 
